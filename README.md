@@ -2,7 +2,7 @@
 <h2 align="center">Modelo Neuronal - Implementaciones 5G por Región</h2>
 
 <p align="center">
- <img src="[[https://cdn-icons-gif.flaticon.com/15588/15588914.gif](https://nhanquyen.co/wp-content/uploads/2024/06/5G-8f2779_cb774306c8904da2a2951e99b3700113mv2.gif](https://img.redestelecom.es/wp-content/uploads/2024/01/04124834/5G.jpg))" alt="Visualización" width="300"/>
+ <img src="[https://cdn-icons-gif.flaticon.com/15588/15588914.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Factions.es%2Fcomo-cambiara-el-mundo-la-red-5g%2F&psig=AOvVaw2jZ_EYNt2zCwb8IByjjUM6&ust=1754153465875000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjE2o6J6o4DFQAAAAAdAAAAABAx)" alt="Visualización" width="300"/>
 </p>
 
 ## 1. Librerías utilizadas
