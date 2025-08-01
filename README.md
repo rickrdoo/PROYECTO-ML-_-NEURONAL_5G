@@ -1,5 +1,6 @@
 
-<h2 align="center">Modelo Neuronal - Implementaciones 5G por Región</h2>
+<h2 align="center">Modelo Neuronal</h2>
+<h2 align="center">Implementaciones 5G por Región en Colombia</h2>
 
 <p align="center">
  <img src="https://centralizate.es/wp-content/uploads/2020/02/5G-en-el-mundo.jpg" alt="Visualización" width="300"/>
